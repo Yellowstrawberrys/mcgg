@@ -5,6 +5,7 @@
     "games",
     "minecraft"
   ],
+  "stack": "heroku-18"
   "logo": "https://raw.githubusercontent.com/Ren232/mcgg/master/logo.jpg",
   "repository": "https://github.com/ren232/mcgg",
   "env": {
